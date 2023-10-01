@@ -1,1 +1,6 @@
-/views/
+/controller/
+/dao/
+/factory/
+/modelo/
+/test/
+/util/
